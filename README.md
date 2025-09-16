@@ -13,3 +13,5 @@ Key points:
 - Evaluates long-term value of product choices rather than immediate outcomes.  
 - Can scale to larger datasets with more ingredients and products.  
 - Allows tuning of hyperparameters like learning rate,exploration rate and budget.  
+
+It also helps understand the trade-offs between cost and quality making the decision process more intuitive and data-driven.
